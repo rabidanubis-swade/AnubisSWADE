@@ -5,7 +5,7 @@
 
 Blessed by the Twin Goddesses with a fertile landscape, and ruled over by the enigmatic god-king Sarru Zalalahara, Deltans live in a land of milk and honey where even the slaves never go hungry. Creatures born within The Delta are healthier, prettier, and more likely to be female. 
 
-Where other cultures have risen and fallen with the passage of time, Deltans have remained. Between their blessings and their timelessness, Deltans to consider themselves to be Civilized - and consider all other groups to be barbarians.
+Where other cultures have risen and fallen with the passage of time, Deltans have remained. Between their blessings and their timelessness, Deltans to consider themselves to be Civilized - and consider all other groups to be barbarians. [[Deities]]
 
 > [!summary]
 > **Analogue:** 
