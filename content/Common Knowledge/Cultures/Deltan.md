@@ -1,4 +1,9 @@
-#Culture #V1 #Culture_Deltan #Motif_Romance #Age_Of_Divinity #Age_Of_Collapse #Age_Of_Heroes #Incomplete 
+---
+tags:
+  - Culture
+  - Culture_Deltan
+---
+
 
 > [!todo]
 > Add Correct Culture_ tag, and any Motif(s) strongly associated with the culture. Replace this with an introduction to the culture.
