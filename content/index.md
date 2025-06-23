@@ -1,3 +1,6 @@
+---
+title: Welcome to Sanguia
+---
 
 # Table Rules
 
