@@ -1,1 +1,0 @@
-I love my waifu, waifu best girl

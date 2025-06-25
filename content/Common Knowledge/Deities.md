@@ -4,12 +4,11 @@ A Deity is any being which possesses a divine dominion - a dominion can be any c
 > For example, [[Deities#Ianna, Goddess of Love and War|Ianna, Goddess of Love and War]], gains power with each act of love and romance. Weaker deities tend to have smaller, more specific domains than their more powerful counterparts.
 
 # Greater Deities
-
 Greater Deities are truly gods dictating The Afterlife of Souls brave enough to continue down the River Styx into [[The Heavens]] that they rule from. They are the most broadly worshiped and the most powerful of all deities. They are not universally considered good or evil, but rather manifestations of the fundamental forces of morality. Individuals in life typically seek to appeal to at least one of these deities to enjoy the afterlife.
 
 ### Ianna, Goddess of Love and War
 **The Lioness, The Queen of Conquerors, The Knightess, Passion**
-The definition of beauty, followers of Ianna believe in the importance of passion and leadership. She is a Deity commonly associated with lions and cats (especially female ones) and is said to be guarded by a pride of golden Lionesses. She is worshiped in The Delta at the [[Temple of the Twin Goddesses]] and depicted as one of the divine wives of [[Sarru Zalalahara]] (alongside [[Deities#Nilvantra, Goddess of Life and Knowledge|Nilvantra]]). Even those who don’t worship her get married with her blessing.
+The definition of beauty, followers of Ianna believe in the importance of passion and leadership. She is a Deity commonly associated with lions and cats (especially female ones) and is said to be guarded by a pride of golden Lionesses. She is worshiped in The Delta at the [[Temple of the Twin Goddesses]] and depicted as one of the divine wives of [[Sarru Zalalahara]] (alongside [[Nilvantra, Goddess of Life and Knowledge]]). Even those who don’t worship her get married with her blessing.
 
 **Tenets**
 - The pen is mightier than the sword.
@@ -51,3 +50,4 @@ Lord of the Abyss, Ilmaan, God of Destruction and Exchange is viewed by some as 
 
 # Lesser Deities
 
+### Sarru Zalalahara
