@@ -4,7 +4,7 @@ title: Welcome to Sanguia
 # Welcome to Sanguia
 In many ways, Sanguia represents a typical fantasy kitchen sink setting - it has elves, dwarves, humans, gods, dragons, and monsters. There are however a few central concepts that differentiate it from a ‘typical’ fantasy setting. 
 
-Firstly, the Cultures of Sanguia are more important than the various races present there. Races modify a culture rather than being it - for example, a half-orc would likely exhibit the more rough aspects of their culture, but how that roughness would be displayed would differ for an Avaronian and Zephyral half-orc. Long-living elves would likely exhibit haughty attitudes whether or not they are Deltan or Svedtalan.
+Firstly, the Cultures of Sanguia are more important than the various races present there. Races modify a culture rather than being it - for example, a half-orc would likely exhibit the more rough aspects of their culture, but how that roughness would be displayed would differ for an Avaronian and Zephyral half-orc. Long-living elves would likely exhibit haughty attitudes whether or not they are Deltan or Svedtalan!
 
 Additionally, the Cosmology of the setting uses Ancient Mediterranean Mythologies (Egyptian, Sumerian, and Greek) as a base, then draws from other mythologies for flavor. Here are a few examples of these impacts:
 - The Afterlife rewards greatness rather than goodness, and those buried with expensive goods can get better deals.
