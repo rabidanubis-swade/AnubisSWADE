@@ -47,7 +47,7 @@ Most dorms will have communal [[Sa (Slave Girl)]] assigned to them, although dis
 > [!question] If making a character that is a Priestess, consider how they may react to this sudden rise in social standing if they came from poverty.
 
 #### Dorm Assignment
-Upon arriving in Semara, Young priestesses are typically separated into dorms based on their age and experience. Although calling them dorms is a bit of an understatement - each is an immaculate palace in their own right, designed to fit 200 to 500 girls luxuriously. The dorm selection is barely understood either - though some dorms seem to have rumors about ending up with individuals of certain backgrounds or character traits. These dorms sort of act as their 'team' while they are there. A "Head Sister" - young priestesses that have recently graduated - keep watch over the day to day functioning of the dormitory and the girls within.
+Upon arriving in Semara, Young priestesses are typically separated into dorms based on their age and experience. Although calling them dorms is a bit of an understatement - each is an immaculate palace in their own right, designed to fit 200 to 500 girls. The dorm selection is barely understood either - though some dorms seem to have rumors about ending up with individuals of certain backgrounds or character traits. These dorms sort of act as their 'team' while they are there. A "Head Sister" - young priestesses that have recently graduated - keep watch over the day to day functioning of the dormitory and the girls within.
 
 After they graduate priestesses tend to identify with the dorm they attended (or other institution if it was outside of Semara) the same way one might identify with a college after graduation.
 

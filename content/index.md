@@ -54,7 +54,7 @@ Welcome! Before discussing setting, or game rules, or other matters, we need to 
 This setting makes use of rules from both Savage Worlds Adventure Edition (Henceforth SWADE) and SWADE Fantasy Companion (Henceforth FC). If there's a feature in both, always use the Fantasy Companion version.
 
 #### Setting Rules
-- Dynamic Backlash (Only on Reality Bending Spells, such as [Plane Shift](/a/worlds/cl9krw362xt2y09907g3kmhdi/cl9vuyn1000p5033c74xqz5xu), Teleportation, Wish, Resurrection, ect.) (SWADE 138)
+- Dynamic Backlash (Only on Reality Bending Spells, such as Plane Shift, Teleportation, Wish, Resurrection, ect.) (SWADE 138)
 - Wound Cap (SWADE 141)
 
 #### House Rules
@@ -130,7 +130,7 @@ Now, assign 12 points for skills. Each step costs 1 point up to and equal to its
 
 ##### Agility Skills
 - Athletics
-- Boating (Piloting Airships is tied in with Boating via the [Renaissance Man](/a/worlds/cl9krw362xt2y09907g3kmhdi/clfk84bv7007m033cb3s9vgu1) edge)
+- Boating (Piloting Airships is tied in with Boating via the Renaissance Man edge)
 - Fighting
 - Riding
 - Shooting
