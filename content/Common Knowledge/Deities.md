@@ -6,7 +6,7 @@ A Deity is any being which possesses a divine dominion - a dominion can be any c
 # Greater Deities
 Greater Deities are truly gods dictating The Afterlife of Souls brave enough to continue down the River Styx into [[The Heavens]] that they rule from. They are the most broadly worshiped and the most powerful of all deities. They are not universally considered good or evil, but rather manifestations of the fundamental forces of morality. Individuals in life typically seek to appeal to at least one of these deities to enjoy the afterlife.
 
-### Ianna, Goddess of Love and War
+#### Ianna, Goddess of Love and War
 **The Lioness, The Queen of Conquerors, The Knightess, Passion**
 The definition of beauty, followers of Ianna believe in the importance of passion and leadership. She is a Deity commonly associated with lions and cats (especially female ones) and is said to be guarded by a pride of golden Lionesses. She is worshiped in The Delta at the [[Temple of the Twin Goddesses]] and depicted as one of the divine wives of [[Sarru Zalalahara]] (alongside [[Nilvantra, Goddess of Life and Knowledge]]). Even those who don’t worship her get married with her blessing.
 
@@ -17,7 +17,7 @@ The definition of beauty, followers of Ianna believe in the importance of passio
 
 The goddess and her faithful are said to reign from [[Qenimeri, Embrace of Love]], a realm of eternal bliss.
 
-### Nephele, Goddess of Cleverness and Chance
+#### Nephele, Goddess of Cleverness and Chance
 **Queen of Deceit, The Fox**
 Gamblers, thieves, and charlatans consider Nephele their patron goddess. The goddess is closely associated with the fates and foxes. While temples exist to her around the world, they are considered somewhat antithetical to her ideals: they are frequently burned down by other worshippers in different sects.
 
@@ -27,7 +27,7 @@ Gamblers, thieves, and charlatans consider Nephele their patron goddess. The god
 
 The goddess and her faithful are said to reside in an unknown, hidden location.
 
-### Nilvantra, Goddess of Life and Knowledge
+#### Nilvantra, Goddess of Life and Knowledge
 **Cultivation, The Vines**
 Gardeners, farmers, and educators revere Cultivation. Wizards revere her as the goddess of knowledge, and healers often draw on her power to relieve the sick and wounded. Many religions revere Cultivation as one of their major deities. The Deity is commonly worshiped in The Delta as part of the Temple of the Twin Goddesses (alongside [[Deities#Ianna, Goddess of Love and War|Ianna]]) and depicted as one of the wives of Sarru Zalalahara. 
 
@@ -38,7 +38,7 @@ Gardeners, farmers, and educators revere Cultivation. Wizards revere her as the 
 
 Those who follow her tenets are said to rest alongside the goddess in Arqe, a realm filled with lush gardens and sprawling libraries.
 
-### Ilmaan, God of Destruction and Exchange
+#### Ilmaan, God of Destruction and Exchange
 **Chained Oblivion, The Merchant, The Serpent**
 Lord of the Abyss, Ilmaan, God of Destruction and Exchange is viewed by some as a destroyer of souls and a terrible being. Others, such as the Falcotosians, view him as a god of exchange and opportunity - to usher in the new, the old must be tossed out. He is frequently depicted by a serpent eating its own tail.
 

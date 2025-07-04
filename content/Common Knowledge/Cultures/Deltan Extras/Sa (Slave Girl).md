@@ -2,15 +2,16 @@
 tags:
   - Class_Slave
   - Culture_Deltan
-  - Lore
   - Gender_Female
+  - Class
 ---
-The vast majority of Deltan slaves belong to a subclass of Sa (Slave Girl). Sa are typically treated decently, with laws dictating their treatment and receiving gifts in exchange for their service. Individuals become Sa from being sold by their parents, to pay off a debt, or as punishment for a crime. They typically wear a collar of copper or bronze to symbolize their position.
+The vast majority of [[Deltan]] slaves belong to a subclass of Sa. Sa are typically treated decently, with laws dictating their treatment and receiving gifts in exchange for their service. Individuals become Sa from being sold by their parents, to pay off a debt, or as punishment for a crime. They typically wear a collar of copper or bronze to symbolize their position.
 
 > [!translation] Sa is Sumerian for “Slave”.
 
 ### Becoming a Sa
-Sa are typically sold into their position by their parents, to pay off a debt, or placed there as a result of non-major crimes. Children of a Sa (Slave Girl) are free, though typically sold by parents to their master to buy the freedom of older siblings or better their living conditions. In the Age of Collapse you could be born into slavery, but the master had to pay the mother for the birth.
+Sa are typically sold into their position by their parents, to pay off a debt, or placed there as a result of non-major crimes. Children of a Sa (Slave Girl) are free, though typically sold by parents to their master to buy the freedom of older siblings or better their living conditions.
+- In the Age of Collapse you could be born into slavery, but the master had to pay the mother for the birth.
 
 ### Male Sa
 While Sa literally means “Slave”, the vast majority of adult slaves are female and it connotatively has come to mean “Slave Girl”. Men are typically treated as apprentices and freed upon reaching adulthood in exchange for service or are purchased by the parents of potential partner as a form of dowry. In practice, women are much more frequently prescribed slavery as a punishment than men.
