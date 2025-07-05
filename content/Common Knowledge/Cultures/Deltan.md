@@ -29,7 +29,7 @@ Where other cultures have risen and fallen with the passage of time, Deltans hav
 > Most Deltans do not have last names - barring people from extremely prestigious dynasties (such as the [[Zalalahara Dynasty]]). Most simply have a first name, consider names that are [Sumerian](https://www.fantasynamegenerators.com/sumerian-names.php) or [Ancient Egyptian](https://www.fantasynamegenerators.com/egyptian-names.php)
 
 ## Blessed by the Goddesses
-The Temple of the Twin Goddesses is the state religion of Civilization and plays a major role in the lives of Deltan individuals. They praise [[Deities#Ianna, Goddess of Love and War|The Lioness]] and [[Deities#Nilvantra, Goddess of Life and Knowledge|Cultivation]] as two sides of the same coin, and revere the god-king [[Deities#Sarru Zalalahara|Sarru Zalalahara]] as their husband. The Priestesses that work there are divinely appointed and are considered equal to nobility. The Temple collectively passes laws, influences social norms, judges crimes, officiates weddings, and conducts research.
+The Temple of the Twin Goddesses is the state religion of Civilization and plays a major role in the lives of Deltan individuals. They praise [[Deities#Ianna, Goddess of Love and War|The Lioness]] and [[Deities#Nilvantra, Goddess of Life and Knowledge|Cultivation]] as two sides of the same coin, and revere the god-king [[Deities#Sarru Zalalahara|Sarru Zalalahara]] as their husband. The [[Priestess (TotTG)|Priestesses]] that work there are divinely appointed and are considered equal to nobility. The Temple collectively passes laws, influences social norms, judges crimes, officiates weddings, and conducts research.
 
 #### A Land of Beauty and Romance
 Behavior that might be considered lustful or inappropriate in other cultures is often considered a method of worshiping [[Deities#Ianna, Goddess of Love and War|The Lioness]] and encouraged by the [[Temple of the Twin Goddesses]]. Due to the higher number of women, [[Deltan#Relationships between Women|relationships between women]] are common. The temple hosts an annual Fertility Festival and even offers romantic services in exchange for a donation. 
@@ -100,7 +100,7 @@ Beyond this point are additional articles and other non-essential details that m
 Parties in the Delta are extreme events, where people pride themselves on hedonism and embrace the glory of the Lioness. However, many of these events have strange rules that have socially developed over 3000 years.
 
 #### Bars
-Buying a round of drinks - and getting the party going - are especially well regarded activities in the Delta. Any bar worth its salt ideally has a cute [[Sa (Slave Girl)#Sa-Geme]] serving drinks to its customers.
+Buying a round of drinks - and getting the party going - are especially well regarded activities in the Delta. Any bar worth its salt ideally has a cute [[Sa (Slave Girl)#Sa-Geme|Sa-Geme]] serving drinks to its customers.
 
 > [!warning] Buying a Round
 > Covering everyone’s drink at a bar is a mark of prestige to Deltans. Carousing (Downtime Option) provides two favors, instead of one. Buying drinks in a bar (about 50gp for a mid-tier bar) provides a +2 to Persuasion checks made against Deltans in that hour.
