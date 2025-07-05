@@ -1,6 +1,6 @@
 ---
 tags:
-  - Culture
+  - Type_Culture
   - V2
   - Age_Of_Divinity
   - Age_Of_Collapse
@@ -11,11 +11,12 @@ tags:
 aliases:
   - Civilized
 ---
+###### Summary
 Blessed by the Twin Goddesses with a fertile landscape, and ruled over by the enigmatic god-king [[Deities#Sarru Zalalahara|Sarru Zalalahara]], Deltans live in a land of milk and honey where even the slaves never go hungry. Creatures born within The Delta are healthier, prettier, and more likely to be female.
 
 Where other cultures have risen and fallen with the passage of time, Deltans have remained. Between their blessings and their timelessness, Deltans to consider themselves to be Civilized - and consider all other groups to be barbarians.
 
-> [!summary]
+> [!summary] Synopsis
 > **Analogue:** Ancient Egypt/Sumer
 > **Language(s):** Semdet
 > **Religion(s):** [[Factions#Temple of the Twin Goddesses|Temple of the Twin Goddesses]]
@@ -36,16 +37,18 @@ Where other cultures have risen and fallen with the passage of time, Deltans hav
 > - [[Edge#Healer|Healer]]
 
 > [!note] Names
-> Most Deltans do not have last names - barring people from extremely prestigious dynasties (such as the Zalalahara Dynasty). Most simply have a first name, consider names that are [Sumerian](https://www.fantasynamegenerators.com/sumerian-names.php) or [Ancient Egyptian](https://www.fantasynamegenerators.com/egyptian-names.php)
+> Most Deltans do not have last names - barring people from extremely prestigious dynasties (such as the [[Zalalahara Dynasty]]). Most simply have a first name, consider names that are [Sumerian](https://www.fantasynamegenerators.com/sumerian-names.php) or [Ancient Egyptian](https://www.fantasynamegenerators.com/egyptian-names.php)
 
 ## Blessed by the Goddesses
 The Temple of the Twin Goddesses is the state religion of Civilization and plays a major role in the lives of Deltan individuals. They praise [[Deities#Ianna, Goddess of Love and War|The Lioness]] and [[Deities#Nilvantra, Goddess of Life and Knowledge|Cultivation]] as two sides of the same coin, and revere the god-king [[Deities#Sarru Zalalahara|Sarru Zalalahara]] as their husband. The Priestesses that work there are divinely appointed and are considered equal to nobility. The Temple collectively passes laws, influences social norms, judges crimes, officiates weddings, and conducts research.
 
 #### A Land of Beauty and Romance
-Behavior that might be considered lustful or inappropriate in other cultures is often considered a method of worshiping [[Deities#Ianna, Goddess of Love and War|The Lioness]] and encouraged by the Temple of the Twin Goddesses. Due to the higher number of women, [[Deltan#Relationships between Women|relationships between women]] are common. The temple hosts an annual Fertility Festival and even offers romantic services in exchange for a donation. Many phrases relate to romance in The Delta, including:
-- “Blessings of the Lioness Upon You” - Used in a similar fashion to "Go Get a Room" or "Uwu"
-- “The goddesses seem to be arguing” - Phrase used when teenagers make an appearance mistake, which is practically a right of passage for Deltans.
-- "The Lioness Protects (from the cold)" - used in a similar manner to "Sluts don't get cold"
+Behavior that might be considered lustful or inappropriate in other cultures is often considered a method of worshiping [[Deities#Ianna, Goddess of Love and War|The Lioness]] and encouraged by the [[Temple of the Twin Goddesses]]. Due to the higher number of women, [[Deltan#Relationships between Women|relationships between women]] are common. The temple hosts an annual Fertility Festival and even offers romantic services in exchange for a donation. 
+
+> [!info] Common Phrases Relating to The Lioness
+> - “Blessings of the Lioness Upon You” - Used in a similar fashion to "Go Get a Room" or "Uwu"
+> - “The goddesses seem to be arguing” - Phrase used when teenagers make an appearance mistake, which is practically a right of passage for Deltans.
+> - "The Lioness Protects (from the cold)" - used in a similar manner to "Sluts don't get cold"
 
 This worship can be done through dressing in an 'appealing' manner, with [Shenti (Skirt)](https://en.wikipedia.org/wiki/Shendyt) commonly worn by both men and women, and everyone is obsessed with jewelry. When outside during the day, most don a light cloak of linen or cotton to keep the harsh sun off their backs. (for more, see [[Deltan#Appearance]]).
 
@@ -58,14 +61,14 @@ Although not as fashionable as [[Deities#Ianna, Goddess of Love and War|The Lion
 Deltans have a strong class structure and Deltans (but not barbarians) are expected to follow it. [[Deltan#Nobility|Deltan Nobility]] have additional social and legal rights compared to other societies. The most powerful nobles belong to the Zalalahara Dynasty and other noble families that have been around for thousands of years.
 
 #### Male Dominated
-There are a series of social rules, laws, and other parts of Deltan society that reinforce male dominance. Here are examples of a few examples of practices and laws that affect women in The Delta:
-- Deltan girls are expected to avoid direct insults, confrontation, and are generally expected to be subservient and submissive.
-- It is difficult legally for women to hold property or noble titles in their own right. Even when they do, they are frequently managed by a male relative.
-- Women aren’t allowed to fight on the frontlines, although ‘femme-fatale’ roles are much more acceptable (magicians, healers, rogues, ect.).
-- The vast majority of slaves are women, and the aesthetic is considered so pervasive that noble daughters are frequently 'technically' enslaved.
-- Due to the high number of women, it is common for women to marry downwards, such as the daughter of a noble marrying a merchant.
+There are a series of social rules, laws, and other parts of Deltan society that reinforce male dominance. Women who are one of the [[Deltan#Serapis (Archmage)|Serapis (Archmage)]], a Priestess (ToTG), or women from 'barbarian' cultures get to ignore most of these rules - but the vast majority of women are bound by them. Other women choose to leave the Delta altogether in a practice known as the [[Balu]].
 
-Women who are one of the [[Deltan#Serapis (Archmage)|Serapis (Archmage)]], a Priestess (ToTG), or women from 'barbarian' cultures get to ignore most of these rules - but the vast majority of women are bound by them. Other women choose to leave the Delta altogether in a practice known as the [[Balu]].
+> [!info] Oppressive Laws and Practices
+> - Deltan girls are expected to avoid direct insults, confrontation, and are generally expected to be subservient and submissive.
+>- It is difficult legally for women to hold property or noble titles in their own right. Even when they do, they are frequently managed by a male relative.
+>- Women aren’t allowed to fight on the frontlines, although ‘femme-fatale’ roles are much more acceptable (magicians, healers, rogues, ect.).
+>- The vast majority of slaves are women, and the aesthetic is considered so pervasive that noble daughters are frequently 'technically' enslaved.
+>- Due to the high number of women, it is common for women to marry downwards, such as the daughter of a noble marrying a merchant.
 
 #### Slavery in the Delta
 Slavery is prominent in The Delta. There are several classes of slaves, with the three most prominent classes of slavery being Sa (Slave Girl), Emedu, and Arad.
@@ -208,7 +211,7 @@ Most education is handled through Priestesses who educate everyone in major citi
 
 Other educators frequently act as a supplement to regular education. They are verified by the Temple of the Twin Goddesses and given a license for instruction - many of which were at one point [[Sa (Slave Girl)#Sa-Rig|Temple Slaves]]. Anyone who goes into instruction is guaranteed to be taken care of their entire life.
 
-# Weddings
+## Weddings
 Virtually all weddings are conducted by a Priestess of the Temple of the Twin Goddesses. There’s many localized and individualized traditions, but the following are a couple common ones:
 - Walking Into Life Together: It is considered a bad omen if either individual wears shoes during a wedding ceremony - feet have to be in contact with the earth or it may be considered a forced wedding by the Priestess (ToTG) conducting it. The couple are gifted a pair of sandles afterwards, frequently from their servants.
 - A Maidenly Gift: If a man is from a substantially lower class than their partner, they are expected to provide some guarantee of well-being. This frequently comes in the form of a handmaiden.

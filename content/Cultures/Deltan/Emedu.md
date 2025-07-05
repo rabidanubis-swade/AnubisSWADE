@@ -4,7 +4,7 @@ tags:
   - Culture_Deltan
   - Gender_Female
   - Class_Upper
-  - Class
+  - Type_Class
 ---
 In their early adolescence, the daughters of well off merchants and nobility frequently seek a higher-ranking noble girl or woman to offer their services to until they come of age or are married (typically until 16-21 years old). In exchange, Emedu are given connections, presentation at a more prestigious court, and taught the ways of courtly living.
 

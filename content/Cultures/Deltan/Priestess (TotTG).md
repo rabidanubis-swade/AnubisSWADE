@@ -1,6 +1,6 @@
 ---
 tags:
-  - Class
+  - Type_Class
   - Class_Upper
   - Motif_Religious
   - Motif_Academic

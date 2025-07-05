@@ -75,10 +75,7 @@ The character creation steps for Savage Worlds in this setting consists of the f
 >Things that will come from both:
 > - Edges and Hinderances
 
-#### Step 1: Assign Default Skills for Free
-Athletics, Common Knowledge, Notice, Persuasion, and Stealth are core skills and start at d4 for free.
-
-#### Step 2: Select a Culture
+#### Step 1: Select a Culture
 Read the introduction to each culture and select one from those listed below. Questions are included in these sections to help flesh out your character. **Make sure to take the languages listed in "Summary". If only one language is listed, you get another of your choice.**
 
 There's no need to read past "Extra Details" unless you're curious about a certain aspect of that culture and wish to expand on it.
@@ -90,19 +87,19 @@ There's no need to read past "Extra Details" unless you're curious about a certa
 > You've read the stuff, you have something interesting: unfortunately, you just got a summary. You want to embrace a certain god, or religion, or the inner workings of some organization.
 > No need to fear, just ask your GM for additional details.
 
-#### Step 3: Select a Race
+#### Step 2: Select a Race
 Select an Ancestry from the Fantasy Companion. Additional races, or races with significant modifications or departures from traditional fantasy canon are listed below.
 
 > [!warning] Outsider
 > If your race has Outsider as a hinderance, discuss with the GM. The hinderance may need to be replaced with another Hinderance if the campaign is not taking place in an area where the outsider hinderance would be relevant (such as playing a half-elf in a campaign focused on The Delta).
 
-#### Step 4: Select Hinderances
+#### Step 3: Select Hinderances
 Select additional hinderances: two major, four minor, or a major and two minor hinderances.
 
 > [!warning] Hindrances from Other Sources
 > These hinderances must be added separately from those gained from edges, arcane backgrounds, or any other source. For example, if you select an ancestry that has Mean (Minor) as a racial hinderance, it does not count towards the totals listed here.
 
-#### Step 5: Select Edges
+#### Step 4: Select Edges
 Take any two edges you desire - make sure to take notes of requirements for these edges, because you must fulfill them by the end of character creation.
 
 > [!warning] Edges from Other Sources
@@ -111,10 +108,15 @@ Take any two edges you desire - make sure to take notes of requirements for thes
 > [!warning] Arcane Background
 > Make sure to pick powers exclusively from the Fantasy Companion
 
-#### Step 6: Assign Attributes
+#### Step 5: Assign Attributes
 Attributes start at d4. You have 5 points to distribute among them. Each step costs 1 point. **Attributes may not typically be raised beyond d12.** Make sure attributes fulfill the requirements for selected edges. 
 
-#### Step 7: Assign Skills
+#### Step 6: Assign Skills
+
+##### Default Skills
+Athletics, Common Knowledge, Notice, Persuasion, and Stealth are core skills and start at d4 for free, unless something from before states otherwise.
+
+##### Skill Points
 Now, assign 12 points for skills. Each step costs 1 point up to and equal to its linked attribute; then 2 points per die type higher than its linked attribute. Skills may not typically be raised beyond d12. **Make sure skills fulfill the requirements for selected edges.**
 
 > For example, with a d6 Agility it costs 1 point to gain a d4 in fighting, 1 point (2 total) to raise it from a d4 to a d6, and 2 points (4 total) to raise it from a d6 to a d8.
@@ -142,7 +144,7 @@ Now, assign 12 points for skills. Each step costs 1 point up to and equal to its
 - Battle
 - Common Knowledge
 - Gambling
-- Handyman
+- Handyman (Note: Replaces Repair)
 - Healing
 - Notice
 - Occult
@@ -157,10 +159,10 @@ Now, assign 12 points for skills. Each step costs 1 point up to and equal to its
 ##### Arcane Skills  
 Your arcane skill is provided by your Arcane Background. Make sure when you take powers that they come from the Fantasy Companion.
 
-#### Step 8: Starting Gear and Lifestyle
+#### Step 7: Starting Gear and Lifestyle
 You start with 300 gold. All gear purchased should come from Fantasy Companion (chapter starts on page 47).
 
-#### Step 9: Derived Stats
+#### Step 8: Derived Stats
 - Standard Pace is 6 and may be adjusted by ancestral abilities, Edges, or Hindrances.
 - Parry is 2 plus half of Fighting. Shields and certain weapons may provide a bonus to parry.
 - Toughness is 2 plus half of Vigor, plus any Armor. Track the amount of armor in parentheses like this—Toughness: 11 (2). This means 2 points of the total 11 Toughness comes from armor, and the other 9 come from vigor and other modifiers.

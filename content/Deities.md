@@ -8,7 +8,7 @@ Greater Deities are truly gods dictating The Afterlife of Souls brave enough to 
 
 #### Ianna, Goddess of Love and War
 **The Lioness, The Queen of Conquerors, The Knightess, Passion**
-The definition of beauty, followers of Ianna believe in the importance of passion and leadership. She is a Deity commonly associated with lions and cats (especially female ones) and is said to be guarded by a pride of golden Lionesses. She is worshiped in The Delta at the [[Temple of the Twin Goddesses]] and depicted as one of the divine wives of [[Sarru Zalalahara]] (alongside [[Nilvantra, Goddess of Life and Knowledge]]). Even those who don’t worship her get married with her blessing.
+The definition of beauty, followers of Ianna believe in the importance of passion and leadership. She is a Deity commonly associated with lions and cats (especially female ones) and is said to be guarded by a pride of golden Lionesses. She is worshiped in The Delta at the [[Temple of the Twin Goddesses]] and depicted as one of the divine wives of [[Deities#Sarru Zalalahara]] (alongside [[Deities#Nilvantra, Goddess of Life and Knowledge]]). Even those who don’t worship her get married with her blessing.
 
 **Tenets**
 - The pen is mightier than the sword.

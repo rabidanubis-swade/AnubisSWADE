@@ -3,7 +3,7 @@ tags:
   - Class_Slave
   - Culture_Deltan
   - Gender_Female
-  - Class
+  - Type_Class
 ---
 The vast majority of [[Deltan]] slaves belong to a subclass of Sa. Sa are typically treated decently, with laws dictating their treatment and receiving gifts in exchange for their service. Individuals become Sa from being sold by their parents, to pay off a debt, or as punishment for a crime. They typically wear a collar of copper or bronze to symbolize their position.
 
@@ -28,7 +28,7 @@ Slaves are typically allowed to buy their freedom at a trice price: repaying any
 Temple Slave, typically much more prestigious than being a regular slave. They are considered somewhat holy due to being chosen by the [[Temple of the Twin Goddesses]].
 
 #### Sa-Ur 
-Maid of high trust, personal attendant.
+Maid of high trust, a personal attendant.
 
 #### Sa-Geme 
 Typically serves in a service roll such as a server or bar maid. They have a right to any tips given to them.
