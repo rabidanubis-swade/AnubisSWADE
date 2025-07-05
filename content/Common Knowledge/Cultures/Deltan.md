@@ -11,31 +11,20 @@ tags:
 aliases:
   - Civilized
 ---
-###### Summary
+#### Summary
 Blessed by the Twin Goddesses with a fertile landscape, and ruled over by the enigmatic god-king [[Deities#Sarru Zalalahara|Sarru Zalalahara]], Deltans live in a land of milk and honey where even the slaves never go hungry. Creatures born within The Delta are healthier, prettier, and more likely to be female.
 
 Where other cultures have risen and fallen with the passage of time, Deltans have remained. Between their blessings and their timelessness, Deltans to consider themselves to be Civilized - and consider all other groups to be barbarians.
 
-> [!summary] Synopsis
-> **Analogue:** Ancient Egypt/Sumer
-> **Language(s):** Semdet
-> **Religion(s):** [[Factions#Temple of the Twin Goddesses|Temple of the Twin Goddesses]]
-> **Locations:** The Delta
-> **Gender Balance:** Male Dominated
-> **Member Races:** Elves, Half-Elves, Humans, 'pretty' races
-
-> [!example] Common Traits
-> **Hinderances**
-> - [[Hindrance#Amorous|Amorous]] (Minor)
-> - [[Hindrance#Armor Interference|Armor Interference]] (Minor)
-> - [[Hindrance#Quirk|Quirk]] "It's not your fault you are a barbarian ..."
-> - [[Hindrance#Jingoistic|Jingoistic]] "It's not your fault you are a barbarian ..."
-> 
-> **Edges**
-> - [[Edge#Attractive|Attractive]]
-> - [[Edge#Fast Healer|Fast Healer]]
-> - [[Edge#Healer|Healer]]
-
+| Analogue          | Ancient Egypt/Sumer                                                                                                                                                                                                                                                                        |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Languages         | Semdet                                                                                                                                                                                                                                                                                     |
+| Religion(s)       | [[Temple of the Twin Goddesses]]                                                                                                                                                                                                                                                           |
+| Locations         | The Delta                                                                                                                                                                                                                                                                                  |
+| Gender Balance    | Male Dominated                                                                                                                                                                                                                                                                             |
+| Member Races      | Elves, Half-Elves, Humans, 'pretty' races                                                                                                                                                                                                                                                  |
+| Common Hindrances | [[Hindrance#Amorous\|Amorous]] (Minor), [[Hindrance#Armor Interference\|Armor Interference]] (Minor), [[Hindrance#Quirk\|Quirk]] (Minor) "It's not your fault you are a barbarian ...", [[Hindrance#Jingoistic\|Jingoistic]] (Minor or Major)"It's not your fault you are a barbarian ..." |
+| Common Edges      | [[Edge#Attractive\|Attractive]], [[Edge#Fast Healer\|Fast Healer]], [[Edge#Healer\|Healer]]                                                                                                                                                                                                |
 > [!note] Names
 > Most Deltans do not have last names - barring people from extremely prestigious dynasties (such as the [[Zalalahara Dynasty]]). Most simply have a first name, consider names that are [Sumerian](https://www.fantasynamegenerators.com/sumerian-names.php) or [Ancient Egyptian](https://www.fantasynamegenerators.com/egyptian-names.php)
 
