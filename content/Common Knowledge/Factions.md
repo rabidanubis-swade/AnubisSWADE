@@ -9,4 +9,3 @@ To the Temple of the Twin Goddesses, love and life are two sides of the same coi
 While it is the State Religion in the Delta and plays a major role in the life of [[Deltan]] individuals, the Temple of the Twin Goddesses has locations open across the globe where they conduct research on a variety of biomes, sponsor academic conferences, provide marriage counseling, test illegal substances, and sometimes perform other acts of love in exchange for a donation.
 
 These temples are operated by divinely appointed [[Priestess (TotTG)|Priestesses]] and the servants that care for them. The most popular festival they host is the [[Fertility Festival]] across Sanguia.
-

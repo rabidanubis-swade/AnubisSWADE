@@ -18,7 +18,7 @@ While it is the State Religion in the Delta and plays a major role in the life o
 These temples are operated by divinely appointed [[Priestess (TotTG)|Priestesses]] and the servants that care for them. The most popular festival they host is the [[Fertility Festival]] across Sanguia.
 
 ###### Symbol
-The head of a lioness with a 'mane' formed of vines.
+The head of a lioness, facing forward, with a 'mane' formed of vines.
 
 # In the Delta
 The Temple of the Twin Goddesses, as the state religion, is able to pass laws, officiates all weddings, judge certain crimes, and educates it citizens (or decides who is allowed to). They operate in a separate apparatus from the nobility, where neither technically outranks the other.

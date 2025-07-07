@@ -25,7 +25,7 @@ Slaves are typically allowed to buy their freedom at a trice price: repaying any
 ### Subtypes of Sa
 
 #### Sa-Rig
-Temple Slave, typically much more prestigious than being a regular slave. They are considered somewhat holy due to being chosen by the [[Temple of the Twin Goddesses]].
+Temple Slave, typically much more prestigious than being a regular slave. They are considered somewhat holy due to being chosen by the [[Temple of the Twin Goddesses]]. Families will sometimes offer to tithe their daughters to the temple, although the temple tries to restrict the number they accept in this manner.
 
 #### Sa-Ur 
 Maid of high trust, a personal attendant.

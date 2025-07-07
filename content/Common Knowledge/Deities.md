@@ -8,6 +8,7 @@ Greater Deities are truly gods dictating The Afterlife of Souls brave enough to 
 
 #### Ianna, Goddess of Love and War
 **The Lioness, The Queen of Conquerors, The Knightess, Passion**
+
 The definition of beauty, followers of Ianna believe in the importance of passion and leadership. She is a Deity commonly associated with lions and cats (especially female ones) and is said to be guarded by a pride of golden Lionesses. She is worshiped in The Delta at the [[Temple of the Twin Goddesses]] and depicted as one of the divine wives of [[Deities#Sarru Zalalahara]] (alongside [[Deities#Nilvantra, Goddess of Life and Knowledge]]). Even those who don’t worship her get married with her blessing.
 
 **Tenets**
@@ -19,6 +20,7 @@ The goddess and her faithful are said to reign from [[Qenimeri, Embrace of Love]
 
 #### Nephele, Goddess of Cleverness and Chance
 **Queen of Deceit, The Fox**
+
 Gamblers, thieves, and charlatans consider Nephele their patron goddess. The goddess is closely associated with the fates and foxes. While temples exist to her around the world, they are considered somewhat antithetical to her ideals: they are frequently burned down by other worshippers in different sects.
 
 **Tenets**
@@ -29,6 +31,7 @@ The goddess and her faithful are said to reside in an unknown, hidden location.
 
 #### Nilvantra, Goddess of Life and Knowledge
 **Cultivation, The Vines**
+
 Gardeners, farmers, and educators revere Cultivation. Wizards revere her as the goddess of knowledge, and healers often draw on her power to relieve the sick and wounded. Many religions revere Cultivation as one of their major deities. The Deity is commonly worshiped in The Delta as part of the Temple of the Twin Goddesses (alongside [[Deities#Ianna, Goddess of Love and War|Ianna]]) and depicted as one of the wives of Sarru Zalalahara. 
 
 **Tenets**
@@ -40,6 +43,7 @@ Those who follow her tenets are said to rest alongside the goddess in Arqe, a re
 
 #### Ilmaan, God of Destruction and Exchange
 **Chained Oblivion, The Merchant, The Serpent**
+
 Lord of the Abyss, Ilmaan, God of Destruction and Exchange is viewed by some as a destroyer of souls and a terrible being. Others, such as the Falcotosians, view him as a god of exchange and opportunity - to usher in the new, the old must be tossed out. He is frequently depicted by a serpent eating its own tail.
 
 **Tenets**
@@ -47,6 +51,11 @@ Lord of the Abyss, Ilmaan, God of Destruction and Exchange is viewed by some as 
 - Your forefathers also longed for the ‘good old days’.
 - Why add to a problem when you can cut instead?
 - Insanity is doing the same thing over and over and expecting different results.
+
+#### Tsarpravda, God of Oaths and Contracts
+**Honor, The Eagle**
+
+The only [[Deities#Greater Deities|Greater Diety]] that is dead, Honor was once the ruler of the 
 
 # Lesser Deities
 
